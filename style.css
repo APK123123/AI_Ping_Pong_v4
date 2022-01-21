@@ -1,0 +1,18 @@
+.heading{
+    width: 100%;
+}
+.heading h3{
+    float: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 1px;
+}
